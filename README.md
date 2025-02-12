@@ -14,8 +14,7 @@ Llama3.2 model installed
 
 Setup Instructions
 Clone the Repository: 
-git clone https://github.com/yourusername/document-chat-system.git  
-cd document-chat-system  
+git clone https://github.com/QaissAA/ollama_final_ap.git  
 
 Create and Activate a Virtual Environment: 
 python -m venv venv  
